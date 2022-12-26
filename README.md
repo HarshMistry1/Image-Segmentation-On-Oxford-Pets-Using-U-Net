@@ -21,7 +21,7 @@ By using this project, you will be able to detect the animals or the object that
 
 ## Initial Prediction Result
 
-![](https://github.com/HarshMistry1/Data_science_projects/blob/master/Image%20Segmentation%20Using%20U-Net/Result%20of%20model.jpg)
+![](https://github.com/HarshMistry1/Image-Segmentation-On-Oxford-Pets-Using-U-Net/blob/master/Result%20of%20model.jpg)
 
 
 ## Contributed By
